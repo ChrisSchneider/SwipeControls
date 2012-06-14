@@ -1,4 +1,6 @@
 SwipeControls
 =============
 
-Swipe Controls for iOS
+Swipe Slider
+------------
+
