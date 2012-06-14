@@ -1,5 +1,7 @@
 # SwipeControls
 
+Swipe Controls displaying an overlay when the user touches the control. By moving his or her finger (panning) the user can then perform different tasks such as selecting a menu item or changing the value of a volume slider.
+
 ## Swipe Slider
 
 ![Example](http://i49.tinypic.com/votp49.png)
