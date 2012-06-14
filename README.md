@@ -1,9 +1,9 @@
 # SwipeControls
 
-Swipe Controls displaying an overlay when the user touches the control. By moving his or her finger (panning) the user can then perform different tasks such as selecting a menu item or changing the value of a volume slider.
+Swipe Controls display an overlay when the user touches the control. By moving his or her finger (panning) the user can then perform different tasks such as selecting a menu item or changing the value of a volume slider.
 
 **It is recommended to use the swipe slider only as a shortcut and to display a full-featured popover if the user taps the control!**  
-For example the volume can be quickly adjusted using the swipe-slider. For precise control or AirPlay-configuration a popover with a `MPVolumeView` is displayed.
+For example the audio volume can be quickly adjusted using the swipe-slider. For precise control or AirPlay-configuration a popover with a `MPVolumeView` is displayed.
 
 
 ## Swipe Slider
