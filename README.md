@@ -14,6 +14,10 @@ EKSwipeSlider provides a slider similar to `UISlider`.  When the overlay is disp
 ![Example](http://i47.tinypic.com/2gyblue.png)  
 _The slider adjusts its initial position depending on the value._
 
+## Swipe Menu
+
+Coming soon :-)
+
 
 ## Documentation
 
