@@ -42,3 +42,8 @@ SwipeControls needs the following frameworks ("Link Binary With Libraries"):
 * UIKit.framework
 * QuartzCore.framework
 * CoreGraphics.framework
+
+
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Germany License](http://creativecommons.org/licenses/by-sa/3.0/de/).
