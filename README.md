@@ -8,10 +8,11 @@ For example the audio volume can be quickly adjusted using the swipe-slider. For
 
 ## Swipe Slider
 
+![Example](http://i50.tinypic.com/2rdusqr.png)
+
 EKSwipeSlider provides a slider similar to `UISlider`.  When the overlay is displayed, it is moved on the x-axis to the left or right depending on the value of the slider.
 
-![Example](http://i49.tinypic.com/votp49.png)
-![Example](http://i47.tinypic.com/2gyblue.png)  
+![Example](http://i48.tinypic.com/24g6sjr.png)  
 _The slider adjusts its position depending on the value when touched. The orange point represents the touch point._
 
 ## Swipe Menu
