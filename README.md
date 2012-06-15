@@ -32,3 +32,13 @@ Coming soon :-)
 
 * [Examples](https://github.com/ChrisSchneider/SwipeControls/wiki/Examples)
 * [Creating Subclasses](https://github.com/ChrisSchneider/SwipeControls/wiki/Subclassing-EKSwipeControl)
+
+
+## Linked Binaries
+
+SwipeControls needs the following frameworks ("Link Binary With Libraries"):
+
+* Foundation.framework
+* UIKit.framework
+* QuartzCore.framework
+* CoreGraphics.framework
