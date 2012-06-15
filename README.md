@@ -10,11 +10,11 @@ For example the audio volume can be quickly adjusted using the swipe-slider. For
 
 ![Example](http://i50.tinypic.com/2rdusqr.png)
 
-EKSwipeSlider provides a slider similar to `UISlider`.  When the overlay is displayed, it is moved on the x-axis to the left or right depending on the value of the slider.
+EKSwipeSlider provides a slider similar to `UISlider`. It provides a shortcut to perform quick tasks such as changing the volume. When tapped it is recommended to display a full-featured popover.
 
 ![Example](http://i48.tinypic.com/24g6sjr.png)  
 
-When displayed the slider adjusts its position depending on the value. The orange points represent the touch points.
+When displayed the slider adjusts its position on the x-axis depending on the value. The orange points represent the touch points.
 
 ## Swipe Menu
 
